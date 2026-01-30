@@ -1,0 +1,18 @@
+Name,Is the character male?,Is the character real?,Is the character black?,Is the character dead?,Is an actor ? ,Is a musician ? 
+Martin Luther King Jr.,1,1,1,1,0,0
+Barack Obama,1,1,1,0,0,0
+Abraham Lincoln,1,1,0,1,0,0
+Elon Musk,1,1,0,0,0,0
+Black Panther (T'Challa),1,0,1,1,0,0
+Nick Fury,1,0,1,0,0,0
+Tony Stark,1,0,0,1,0,0
+Peter Parker,1,0,0,0,0,0
+Maya Angelou,0,1,1,1,0,0
+Serena Williams,0,1,1,0,0,0
+Marie Curie,0,1,0,1,0,0
+Taylor Swift,0,1,0,0,0,1
+Ramonda,0,0,1,1,0,0
+Moana,0,0,1,0,0,0
+Black Widow (Natasha Romanoff),0,0,0,1,0,0
+Hermione Granger,0,0,0,0,0,0
+Millie bobby Brown,0,1,0,0,1,0
